@@ -1,0 +1,6 @@
+model_checkpoint_path: "D:\\python\\LSTM_captcha/model/model.ckpt-3300"
+all_model_checkpoint_paths: "D:\\python\\LSTM_captcha/model/model.ckpt-2900"
+all_model_checkpoint_paths: "D:\\python\\LSTM_captcha/model/model.ckpt-3000"
+all_model_checkpoint_paths: "D:\\python\\LSTM_captcha/model/model.ckpt-3100"
+all_model_checkpoint_paths: "D:\\python\\LSTM_captcha/model/model.ckpt-3200"
+all_model_checkpoint_paths: "D:\\python\\LSTM_captcha/model/model.ckpt-3300"
